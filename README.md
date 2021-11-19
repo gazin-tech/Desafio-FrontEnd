@@ -43,7 +43,7 @@ A aplicação deve conter no mínimo as quatro páginas apresentadas no mockup c
 
 - ***/home ►*** Página incial da aplicação;
 - ***/search ►*** Página que lista os filmes após serem filtrados via o campo de input presente no header;
-- ***/movie-detail ► *** Página que exibe os detalhes de um filme selecionado;
+- ***/movie-detail ►*** Página que exibe os detalhes de um filme selecionado;
 - ***/actor-detail ►*** Página que exibe os dados de um ator selecionado.
 
 A aplicação deve conter um campo de busca no header das páginas, que quando submetido renderiza a página `/search` contendo os filmes retornados da busca na API do IMDb.
