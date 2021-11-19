@@ -14,7 +14,7 @@ O objetivo desse desafio é compreender quais conhecimentos você já possui e s
 
 Imagine que o resultado do seu trabalho será um projeto público que será utilizado por várias pessoas. Sendo assim, aplique neste projeto as boas práticas de desenvolvimento de software que você conhece.
 
-**Criar um repositório público em algum serviço de hospedagem como GitHub, GitLab, BitBucket, para armazenar seu código. O mesmo deve ser enviado para a avaliação do código**
+**Criar um repositório público em algum serviço de hospedagem como GitHub, GitLab, BitBucket, para armazenar seu código. O mesmo deve ser enviado para a avaliação do código.**
 
 ## 💬 Escopo do desafio
 
@@ -42,7 +42,7 @@ A aplicação deve ser componentizada, com os seguintes componentes obrigatório
 A aplicação deve conter no mínimo as quatro páginas apresentadas no mockup com as seguintes rotas:
 
 - ***/home ►*** Página incial da aplicação;
-- ***/search ► *** Página que lista os filmes após serem filtrados via o campo de input presente no header;
+- ***/search ►*** Página que lista os filmes após serem filtrados via o campo de input presente no header;
 - ***/movie-detail ► *** Página que exibe os detalhes de um filme selecionado;
 - ***/actor-detail ►*** Página que exibe os dados de um ator selecionado.
 
@@ -64,7 +64,7 @@ Os itens abaixo não são obrigatórios para o desafio, mas caso tenha as skills
 - **Animações CSS;**
 - **Criação de novas páginas e funcionalidades;**
 - **Implementação de Docker para execução do ambiente;**
-- **Controle de versão (GIT)**
+- **Controle de versão (GIT);**
 - **Documentação do projeto.**
 
 ## BOA SORTE! 😁
