@@ -6,7 +6,7 @@
 
 ## ℹ️ Informações
 
-Esse desafio é composto de algumas etapas. O intuito não é de forma alguma que se tenha que implementa-lo completamente para qualquer consideração de contração.
+Esse desafio é composto de algumas etapas. O intuito não é de forma alguma que se tenha que implementa-lo completamente para qualquer consideração de contratação.
 
 Dica 1: Fique tranquilo e tente resolvê-lo como se estivesse estudando algo novo que queira aprender.
 
