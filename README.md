@@ -2,7 +2,7 @@
 
 ### 📺 GazinFilms 
 
-![](https://i.ibb.co/pyc6MGS/Group-15.png)
+![](https://raw.githubusercontent.com/gazin-tech/Desafio-FrontEnd/main/.github/image-main.png)
 
 ## ℹ️ Informações
 
